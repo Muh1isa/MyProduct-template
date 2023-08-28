@@ -1,0 +1,18 @@
+.section7 {
+    &__title {
+        text-align: center;
+    }
+    &__text {
+        text-align: center;
+        margin: 10px 0 30px 0;
+    }
+}
+
+
+@media screen and (max-width: 400px) {
+    .section7 {
+        display: block;
+        width: 100%;
+        padding: 10px;
+    }
+}

@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.button {
+    font-size: 18px;
+    color: #fff;
+    background-color: #02897A;
+    border: none;
+    padding: 12px 30px;
+}
+
+.title {
+    font-size: 30px;
+    color: #22343D;
+}
+
+.text {
+    font-size: 18px;
+    line-height: 28px;
+    color: #22343D;
+}
